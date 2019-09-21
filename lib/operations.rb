@@ -19,6 +19,7 @@ end
 if speed < 40 
    return true
 end
+ speed > 60 || <40 ? true: false
  speed > 40 && < 60 ? false: true 
  
 end
